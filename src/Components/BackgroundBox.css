@@ -1,0 +1,46 @@
+
+button{
+    background-color: white;
+    border: 0px;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+}
+.inputBox{
+    height: auto;
+    align-items: center;
+    padding: 10px;
+    width: 800px;
+}
+.BackgroundBox{
+    /* display: flex; */
+    /* align-items: center; */
+    background-color:white;
+    flex-direction: row;
+    height: 300px;
+    margin-top: 30vh;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 40px;
+    /* align-content: center; */
+    border: 2px solid black;
+    justify-content: center;
+}
+.divBox{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    border: 2px solid black;
+    margin-top: 9px;
+}
+.lang{
+    margin: auto;
+    font-weight:bolder ;
+}
+.heading{
+    color: lightgreen;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    font-size: 40px;
+}
